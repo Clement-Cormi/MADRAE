@@ -7,4 +7,10 @@ Cette approche s'appuie sur l'étude des pratiques de travail pour modéliser le
 
 Les principes de l'approche et de modélisation sont exposés dans le [wiki du projet](https://github.com/Clement-Cormi/MADRAE/wiki).
 
+## About MADRAE
+
+MADRAE is a modeling approach for information system and software design and management. The overall aim is to better support cooperative and regulated practices for system that span across organization. 
+
+More information in english about MADRAE can be found in our ECSCW 2023 paper: [ECSCW23 paper](https://dl.eusset.eu/items/4ceeb1d1-2608-4f02-baea-d7025bcdbbf7)
+
 (translation in progress - feel free to contact us for contributing to MADRAE)
